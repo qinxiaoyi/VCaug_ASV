@@ -13,5 +13,5 @@ The final result show in the following table.
 | -  | + VC AUG_{in}(PPP-to-Mel) | 340/29089 | 5.16 | 0.249 |
 | -  | + VC AUG_{out}(Mel-to-Mel) | 3210/48890 | 6.08 | 0.295 |
 | -  | + VC AUG_{in}(Mel-to-Mel) + Pitch shift AUG | 1020/76978 | 5.19 | 0.241 |
-| -  | + VC AUG_{in}(PPP-to-Mel) + Pitch shift AUG | 1020/87267 | 0.214 |
+| -  | + VC AUG_{in}(PPP-to-Mel) + Pitch shift AUG | 1020/87267 | 4.51 | 0.214 |
 
